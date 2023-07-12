@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpopic&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&show=reviews,discussions)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fpopic&show_icons=true&theme=transparent&include_all_commits=true&hide_rank=true&show=reviews,discussions&custom_title=Filip's Open Source Contributions)
 
