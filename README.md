@@ -6,7 +6,7 @@ Some of my humble OSS contributions:
 - (Docker Sbt Scala) https://github.com/sbt/docker-sbt/pull/99
 - (Apache Beam) https://github.com/apache/beam/pull/13083
 
-Always wondering how things work around me, do my homework to understand it good enough to be able to abstract around it.
+I wonder how things work around me, do my homework to understand these well enough, abstract around it and move forward.
 
 My programming language journeys: C, C++, SQL, Java, C#, Python, Scala, Scripting (bash, jq, yq, HCL). 
 
