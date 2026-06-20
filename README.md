@@ -2,9 +2,9 @@
 
 Some of my humble OSS contributions:
 - (Apache Airflow Hashicorp Vault provider: Fix gcp iam auth in Vault Airflow Secrets Backend
-  - https://github.com/apache/airflow/pull/51991
-  - https://github.com/apache/airflow/pull/53801
   - https://github.com/apache/airflow/pull/68069
+  - https://github.com/apache/airflow/pull/53801
+  - https://github.com/apache/airflow/pull/51991
 - (Hashicorp Terraform Google provider): Add support for BigQuery hourly time partitioning
   - https://github.com/hashicorp/terraform-provider-google/pull/6675
 - (Docker Sbt Scala) Use ENVs and ARGs for USER_ID and GROUP_ID for sbtuser
